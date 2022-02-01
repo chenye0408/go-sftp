@@ -17,7 +17,7 @@ func main() {
 	//fill in your credential and IP address
 	user := "username"
 	password := "password"
-	host := "127.0.0.1"
+	host := "12.34.56.78"
 	port := 22
 	proxyAddress := "http://example_proxy"
 
